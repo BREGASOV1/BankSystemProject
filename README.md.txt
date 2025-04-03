@@ -68,5 +68,39 @@ BankSystemProject/
 💾 Encryption keys affect existing data - modify carefully
 
 
+🚀 How to Run the Bank System Project
+Prerequisites
+Windows 10/11 (recommended)
+
+Visual Studio 2022 (Community Edition is free)
+
+During installation, select:
+✅ "Desktop development with C++"
+
+Step-by-Step Instructions
+1. Clone the Repository
+git clone https://github.com/yourusername/BankSystemProject.git
+cd BankSystemProject
+
+2. Open in Visual Studio
+Double-click Bank-System-OOP.sln
+
+Wait for VS to load dependencies (may take 2-5 minutes first time).
+
+3. Build & Run
+Press F5 (or click the green "Local Windows Debugger" arrow).
+
+This will:
+
+Compile the code
+
+Auto-copy RequiredFiles/ to the build directory
+
+Launch the program
+
+First-Time Login
+Username: Admin
+Password: 222 (stored as 444 in Users.txt)
+
 ## 📜 License  
 [MIT License](LICENSE)
